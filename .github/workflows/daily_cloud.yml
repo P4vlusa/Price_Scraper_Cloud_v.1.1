@@ -16,7 +16,7 @@ jobs:
           #"configs/CPS.json",
           "configs/An_Khang.json",
           "configs/An_Phat.json",
-          "configs/Gearvn.json"
+          "configs/Gearvn.json",
           "configs/Phong_Vu.json"
           # ... Thêm đủ 20 file config vào đây
         ]
