@@ -13,7 +13,7 @@ from datetime import datetime
 
 # --- CẤU HÌNH ---
 # ID của file Google Sheet (Thay thế bằng ID của bạn)
-SPREADSHEET_ID = 'THAY_ID_GOOGLE_SHEET_CUA_BAN_VAO_DAY'
+SPREADSHEET_ID = '1YqO4MVEzAz61jc_WCVSS00LpRlrDb5r0LnuzNi6BYUY'
 scope = ["https://spreadsheets.google.com/feeds", "https://www.googleapis.com/auth/drive"]
 
 def get_driver():
