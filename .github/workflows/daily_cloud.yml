@@ -13,7 +13,7 @@ jobs:
       matrix:
         # LIỆT KÊ DANH SÁCH CÁC ĐẠI LÝ CỦA BẠN Ở ĐÂY
         dealer_config: [
-          "configs/CPS.json",
+          #"configs/CPS.json",
           "configs/An_Khang.json",
           "configs/An_Phat.json",
           "configs/Gearvn.json"
