@@ -13,10 +13,12 @@ jobs:
       matrix:
         # LIỆT KÊ DANH SÁCH CÁC ĐẠI LÝ CỦA BẠN Ở ĐÂY
         dealer_config: [
-          "configs/CPS.json",
-          "configs/An_Khang.json",
-          "configs/An_Phat.json",
-          "configs/Gearvn.json"
+          "configs/An Khang.json",
+          "configs/An Phat.json",
+          "configs/Cellphones.json",
+          "configs/Gearvn.json",
+          "configs/Laptop88.json",
+          "configs/Phuc Anh.json"
           # ... Thêm đủ 20 file config vào đây
         ]
 
