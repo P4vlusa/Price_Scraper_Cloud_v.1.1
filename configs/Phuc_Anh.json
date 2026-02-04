@@ -50,7 +50,6 @@
        {"name": "Creator Z16 HX Studio B13VGTO-062VN", "url": "https://www.phucanh.vn/laptop-msi-prestige-13-ai-evo-a1mg-062vn.html", "selector": "#product-info-price > div > div.pd-special-price > p.sale-price.pd-price", "type": "css"},
        {"name": "Creator Z16 HX Studio B13VGTO-062VN", "url": "https://www.phucanh.vn/laptop-msi-prestige-13-ai-evo-a2vmg-062vn.html", "selector": "#product-info-price > div > div.pd-special-price > p.sale-price.pd-price", "type": "css"},
        {"name": "Creator Z17 HX Studio A14VGT-272VN", "url": "https://www.phucanh.vn/laptop-msi-creator-z17-hx-studio-a14vgt-272vn.html", "selector": "#product-info-price > div > div.pd-special-price > p.sale-price.pd-price", "type": "css"},
-       {"name": "Crosshair 16 HX AI D2XWFKG-035VN", "url": "https://www.phucanh.vn/laptop-msi-gaming-titan-18-hx-ai-a2xwjg-035vn.html", "selector": "#product-info-price > div > div.pd-special-price > p.sale-price.pd-price", "type": "css"},
        {"name": "Crosshair 16 HX D14VFKG-860VN", "url": "https://www.phucanh.vn/laptop-msi-gaming-crosshair-16-hx-d14vfkg-860vn.html", "selector": "#product-info-price > div > div.pd-special-price > p.sale-price.pd-price", "type": "css"},
        {"name": "Cyborg 14 A13UDX-099VN", "url": "https://www.phucanh.vn/laptop-msi-gaming-cyborg-14-a13udx-099vn.html", "selector": "#product-info-price > div > div.pd-special-price > p.sale-price.pd-price", "type": "css"},
        {"name": "Cyborg 14 A13VE-090VN", "url": "https://www.phucanh.vn/laptop-msi-gaming-cyborg-14-a13ve-090vn.html", "selector": "#product-info-price > div > div.pd-special-price > p.sale-price.pd-price", "type": "css"},
@@ -405,3 +404,4 @@
        {"name": "Zenbook 14 OLED UX3405CA-ST629W", "url": "https://www.phucanh.vn/laptop-asus-zenbook-14-ux3405ca-st629w.html", "selector": "#product-info-price > div > div.pd-special-price > p.sale-price.pd-price", "type": "css"},
        {"name": "Zenbook 14 OLED UX3405CA-ST648W", "url": "https://www.phucanh.vn/laptop-asus-zenbook-14-ux3405ca-st648w.html", "selector": "#product-info-price > div > div.pd-special-price > p.sale-price.pd-price", "type": "css"}
 ]
+
