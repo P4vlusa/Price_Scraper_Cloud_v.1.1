@@ -18,7 +18,10 @@ jobs:
           "configs/Cellphones.json",
           "configs/Gearvn.json",
           "configs/Laptop88.json",
-          "configs/Phuc_Anh.json"
+          "configs/Phuc_Anh.json",
+          "configs/Laptopworld.json",
+          "configs/Sieu_Toc.json",
+          "configs/Xgear.json"
           # ... Thêm đủ 20 file config vào đây
         ]
 
