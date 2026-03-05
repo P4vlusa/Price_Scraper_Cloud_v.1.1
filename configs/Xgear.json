@@ -214,7 +214,7 @@
   {"name": "LOQ 15IRH8-82XV00QQVN", "url": "https://xgear.net/products/laptop-gaming-lenovo-loq-15irh8-82xv00qqvn", "selector": ["#pro-price > span.price-now", "#pro-price > span.price-now"]},
   {"name": "LOQ Essential 15IRX11-83SC003TVN", "url": "https://xgear.net/products/laptop-gaming-lenovo-loq-essential-15irx11-83sc003tvn", "selector": ["#pro-price > span.price-now", "#pro-price > span.price-now"]},
   {"name": "Cyborg 15 A13VFK-876VN", "url": "https://xgear.net/products/laptop-gaming-msi-cyborg-15-a13vfk-876vn", "selector": ["#pro-price > span.price-now", "#pro-price > span.price-now"]},
-  {"name": "Cyborg 15 A12VF-267VN", "url": "https://xgear.net/products/laptop-gaming-msi-katana-15-hx-b14wfk-267vn", "selector": ["#pro-price > span.price-now", "#pro-price > span.price-now"]},
+  {"name": "Katana 15 HX B14WFK-267VN", "url": "https://xgear.net/products/laptop-gaming-msi-katana-15-hx-b14wfk-267vn", "selector": ["#pro-price > span.price-now", "#pro-price > span.price-now"]},
   {"name": "Katana A15 AI B8VG-465VN", "url": "https://xgear.net/products/laptop-gaming-msi-katana-a15-ai-b8vg-465vn-20th-edition", "selector": ["#pro-price > span.price-now", "#pro-price > span.price-now"]},
   {"name": "Pulse 16 AI C1VGKG-061VN", "url": "https://xgear.net/products/laptop-gaming-msi-pulse-16-ai-c1vgkg-061vn", "selector": ["#pro-price > span.price-now", "#pro-price > span.price-now"]},
   {"name": "Raider 18 HX AI A2XWIG-692VN", "url": "https://xgear.net/products/laptop-gaming-msi-raider-18-hx-ai-a2xwjg-692vn", "selector": ["#pro-price > span.price-now", "#pro-price > span.price-now"]},
@@ -227,4 +227,5 @@
   {"name": "Modern 15 F13MG-082VN", "url": "https://xgear.net/products/laptop-msi-prestige-16-ai-studio-b1vf-082vn", "selector": ["#pro-price > span.price-now", "#pro-price > span.price-now"]}
 
 ]
+
 
