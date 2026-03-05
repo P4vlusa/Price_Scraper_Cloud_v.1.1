@@ -54,16 +54,16 @@
   {"name": "Crosshair 16 HX D14VFKG-860VN", "url": "https://www.phucanh.vn/laptop-msi-gaming-crosshair-16-hx-d14vfkg-860vn.html", "selector": "#product-info-price > div > div.pd-special-price > p.sale-price.pd-price"},
   {"name": "Cyborg 14 A13UDX-099VN", "url": "https://www.phucanh.vn/laptop-msi-gaming-cyborg-14-a13udx-099vn.html", "selector": "#product-info-price > div > div.pd-special-price > p.sale-price.pd-price"},
   {"name": "Cyborg 14 A13VE-090VN", "url": "https://www.phucanh.vn/laptop-msi-gaming-cyborg-14-a13ve-090vn.html", "selector": "#product-info-price > div > div.pd-special-price > p.sale-price.pd-price"},
-  {"name": "Cyborg 14 A13VE-090VN", "url": "https://www.phucanh.vn/laptop-msi-gaming-titan-18-hx-ai-a2xwig-090vn.html", "selector": "#product-info-price > div > div.pd-special-price > p.sale-price.pd-price"},
+  {"name": "Titan 18 HX AI A2XWIG-090VN", "url": "https://www.phucanh.vn/laptop-msi-gaming-titan-18-hx-ai-a2xwig-090vn.html", "selector": "#product-info-price > div > div.pd-special-price > p.sale-price.pd-price"},
   {"name": "Cyborg 15 A12UCX-618VN", "url": "https://www.phucanh.vn/laptop-msi-gaming-cyborg-15-a12ucx-618vn.html", "selector": "#product-info-price > div > div.pd-special-price > p.sale-price.pd-price"},
-  {"name": "Cyborg 15 A12VE-240VN", "url": "https://www.phucanh.vn/laptop-msi-prestige-13-ai-evo-a1mg-240vn.html", "selector": "#product-info-price > div > div.pd-special-price > p.sale-price.pd-price"},
+  {"name": "Prestige 13 AI Evo A1MG-240VN", "url": "https://www.phucanh.vn/laptop-msi-prestige-13-ai-evo-a1mg-240vn.html", "selector": "#product-info-price > div > div.pd-special-price > p.sale-price.pd-price"},
   {"name": "Cyborg 15 A13UC-2082VN", "url": "https://www.phucanh.vn/laptop-msi-gaming-cyborg-15-a13uc-2082vn.html", "selector": "#product-info-price > div > div.pd-special-price > p.sale-price.pd-price"},
   {"name": "Cyborg 15 A13UC-2088VN", "url": "https://www.phucanh.vn/laptop-msi-gaming-cyborg-15-a13uc-2088vn.html", "selector": "#product-info-price > div > div.pd-special-price > p.sale-price.pd-price"},
   {"name": "Cyborg 15 A13UC-861VN", "url": "https://www.phucanh.vn/laptop-msi-gaming-cyborg-15-a13uc-861vn.html", "selector": "#product-info-price > div > div.pd-special-price > p.sale-price.pd-price"},
   {"name": "Cyborg 15 A13VEK-2089VN", "url": "https://www.phucanh.vn/laptop-msi-gaming-cyborg-15-a13vek-2089vn.html", "selector": "#product-info-price > div > div.pd-special-price > p.sale-price.pd-price"},
   {"name": "Cyborg 15 AI A1VEK-245VN", "url": "https://www.phucanh.vn/laptop-msi-gaming-cyborg-15-a1vek-245vn.html", "selector": "#product-info-price > div > div.pd-special-price > p.sale-price.pd-price"},
   {"name": "Cyborg 15 B13WEKG-676VN", "url": "https://www.phucanh.vn/laptop-msi-gaming-cyborg-15-b13wekg-676vn.html", "selector": "#product-info-price > div > div.pd-special-price > p.sale-price.pd-price"},
-  {"name": "Cyborg 15 B13WEKG-676VN", "url": "https://www.phucanh.vn/laptop-msi-gaming-katana-15-b13vfk-676vn.html", "selector": "#product-info-price > div > div.pd-special-price > p.sale-price.pd-price"},
+  {"name": "Katana 15 B13VFK-676VN", "url": "https://www.phucanh.vn/laptop-msi-gaming-katana-15-b13vfk-676vn.html", "selector": "#product-info-price > div > div.pd-special-price > p.sale-price.pd-price"},
   {"name": "Cyborg 15 B13WFKG-658VN", "url": "https://www.phucanh.vn/laptop-msi-gaming-cyborg-15-b13wfkg-658vn.html", "selector": "#product-info-price > div > div.pd-special-price > p.sale-price.pd-price"},
   {"name": "ExpertBook B3 B3405CCA-LY0077W", "url": "https://www.phucanh.vn/laptop-asus-expertbook-b3405cca-ly0077w.html", "selector": "#product-info-price > div > div.pd-special-price > p.sale-price.pd-price"},
   {"name": "ExpertBook B3 B3405CCA-LY0080W", "url": "https://www.phucanh.vn/laptop-asus-expertbook-b3405cca-ly0080w.html", "selector": "#product-info-price > div > div.pd-special-price > p.sale-price.pd-price"},
@@ -406,5 +406,6 @@
   {"name": "Zenbook 14 OLED UX3405CA-ST648W", "url": "https://www.phucanh.vn/laptop-asus-zenbook-14-ux3405ca-st648w.html", "selector": "#product-info-price > div > div.pd-special-price > p.sale-price.pd-price"}
 
 ]
+
 
 
