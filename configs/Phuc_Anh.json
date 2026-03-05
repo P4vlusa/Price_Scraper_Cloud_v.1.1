@@ -321,7 +321,7 @@
   {"name": "V15 G5 IRL-83HF00BVVN", "url": "https://www.phucanh.vn/laptop-lenovo-v15-g4-iru-83hf00bvvn.html", "selector": "#product-info-price > div > div.pd-special-price > p.sale-price.pd-price"},
   {"name": "V15 G5 IRL-83HF00BYVN", "url": "https://www.phucanh.vn/laptop-lenovo-v15-g5-irl-83hf00byvn.html", "selector": "#product-info-price > div > div.pd-special-price > p.sale-price.pd-price"},
   {"name": "Venture A15 AI A2HMG-003VN", "url": "https://www.phucanh.vn/laptop-msi-venture-a15-ai-a2hmg-003vn.html", "selector": "#product-info-price > div > div.pd-special-price > p.sale-price.pd-price"},
-  {"name": "Venture Pro 16 AI A1VEG-003VN", "url": "https://www.phucanh.vn/laptop-msi-venture-pro-16-ai-a1veg-003vn.html", "selector": "#product-info-price > div > div.pd-special-price > p.sale-price.pd-price"},
+  {"name": "VenturePro 16 AI A1VEG-003VN", "url": "https://www.phucanh.vn/laptop-msi-venture-pro-16-ai-a1veg-003vn.html", "selector": "#product-info-price > div > div.pd-special-price > p.sale-price.pd-price"},
   {"name": "VivoBook 14 A1407CA-LY008WS", "url": "https://www.phucanh.vn/laptop-asus-vivobook-14-a1407ca-ly008ws.html", "selector": "#product-info-price > div > div.pd-special-price > p.sale-price.pd-price"},
   {"name": "VivoBook 14 M1405NAQ-LY010W", "url": "https://www.phucanh.vn/laptop-asus-vivobook-14-m1405naq-ly010w.html", "selector": "#product-info-price > div > div.pd-special-price > p.sale-price.pd-price"},
   {"name": "VivoBook 14 M1405NAQ-LY011W", "url": "https://www.phucanh.vn/laptop-asus-vivobook-14-m1405naq-ly011w.html", "selector": "#product-info-price > div > div.pd-special-price > p.sale-price.pd-price"},
@@ -404,4 +404,5 @@
   {"name": "Zenbook 14 OLED UX3405CA-ST628W", "url": "https://www.phucanh.vn/laptop-asus-zenbook-14-ux3405ca-st628w.html", "selector": "#product-info-price > div > div.pd-special-price > p.sale-price.pd-price"},
   {"name": "Zenbook 14 OLED UX3405CA-ST629W", "url": "https://www.phucanh.vn/laptop-asus-zenbook-14-ux3405ca-st629w.html", "selector": "#product-info-price > div > div.pd-special-price > p.sale-price.pd-price"},
   {"name": "Zenbook 14 OLED UX3405CA-ST648W", "url": "https://www.phucanh.vn/laptop-asus-zenbook-14-ux3405ca-st648w.html", "selector": "#product-info-price > div > div.pd-special-price > p.sale-price.pd-price"}
+
 ]
