@@ -150,7 +150,7 @@
   {"name": "Katana 15 HX B14WGK-023VN", "url": "https://www.phucanh.vn/laptop-msi-gaming-katana-15-hx-b14wgk-023vn.html", "selector": "#product-info-price > div > div.pd-special-price > p.sale-price.pd-price"},
   {"name": "Katana A15 AI B8VF-419VN", "url": "https://www.phucanh.vn/laptop-msi-gaming-katana-15-ai-b8vf-419vn.html", "selector": "#product-info-price > div > div.pd-special-price > p.sale-price.pd-price"},
   {"name": "Katana A15 AI B8VG-466VN", "url": "https://www.phucanh.vn/laptop-msi-gaming-katana-15-ai-b8vg-466vn-2025.html", "selector": "#product-info-price > div > div.pd-special-price > p.sale-price.pd-price"},
-  {"name": "Katana A15 AI B8VG-466VN", "url": "https://www.phucanh.vn/laptop-msi-modern-14-f13mg-466vn.html", "selector": "#product-info-price > div > div.pd-special-price > p.sale-price.pd-price"},
+  {"name": "Modern 14 F13MG-466VN", "url": "https://www.phucanh.vn/laptop-msi-modern-14-f13mg-466vn.html", "selector": "#product-info-price > div > div.pd-special-price > p.sale-price.pd-price"},
   {"name": "Latitude 3450-71076115", "url": "https://www.phucanh.vn/laptop-dell-latitude-l3450-71076115.html", "selector": "#product-info-price > div > div.pd-special-price > p.sale-price.pd-price"},
   {"name": "Legion 5 15AHP10-83M00030VN", "url": "https://www.phucanh.vn/laptop-lenovo-legion-gaming-5-15ahp10-83m00030vn.html", "selector": "#product-info-price > div > div.pd-special-price > p.sale-price.pd-price"},
   {"name": "Legion 5 15IAX10-83F0003CVN", "url": "https://www.phucanh.vn/laptop-lenovo-legion-gaming-15iax10-83f0003cvn.html", "selector": "#product-info-price > div > div.pd-special-price > p.sale-price.pd-price"},
@@ -406,4 +406,5 @@
   {"name": "Zenbook 14 OLED UX3405CA-ST648W", "url": "https://www.phucanh.vn/laptop-asus-zenbook-14-ux3405ca-st648w.html", "selector": "#product-info-price > div > div.pd-special-price > p.sale-price.pd-price"}
 
 ]
+
 
