@@ -218,11 +218,12 @@
   {"name": "Katana A15 AI B8VG-465VN", "url": "https://xgear.net/products/laptop-gaming-msi-katana-a15-ai-b8vg-465vn-20th-edition", "selector": ["#pro-price > span.price-now", "#pro-price > span.price-now"]},
   {"name": "Pulse 16 AI C1VGKG-061VN", "url": "https://xgear.net/products/laptop-gaming-msi-pulse-16-ai-c1vgkg-061vn", "selector": ["#pro-price > span.price-now", "#pro-price > span.price-now"]},
   {"name": "Raider 18 HX AI A2XWIG-692VN", "url": "https://xgear.net/products/laptop-gaming-msi-raider-18-hx-ai-a2xwjg-692vn", "selector": ["#pro-price > span.price-now", "#pro-price > span.price-now"]},
-  {"name": "Pulse 17 AI C1VGKG-017VN", "url": "https://xgear.net/products/laptop-gaming-msi-stealth-18-hx-ai-a2xwig-017vn", "selector": ["#pro-price > span.price-now", "#pro-price > span.price-now"]},
+  {"name": "Stealth 18 HX AI A2XWIG-017VN", "url": "https://xgear.net/products/laptop-gaming-msi-stealth-18-hx-ai-a2xwig-017vn", "selector": ["#pro-price > span.price-now", "#pro-price > span.price-now"]},
   {"name": "Stealth 14 AI Studio A1VFG-085VN", "url": "https://xgear.net/products/laptop-gaming-msi-stealth-a16-ai-a3xwhg-085vn", "selector": ["#pro-price > span.price-now", "#pro-price > span.price-now"]},
   {"name": "Sword 16 HX B14VEKG-459VN", "url": "https://xgear.net/products/laptop-gaming-msi-sword-16-hx-b14vekg-459vn-20th-edition", "selector": ["#pro-price > span.price-now", "#pro-price > span.price-now"]},
   {"name": "Prestige 13 AI+ Evo A2VMG-040VN", "url": "https://xgear.net/products/laptop-msi-prestige-13-ai-evo-a2vmg-040vn", "selector": ["#pro-price > span.price-now", "#pro-price > span.price-now"]},
   {"name": "Prestige 13 AI+ Ukiyoe Edition A2VMG-075VN", "url": "https://xgear.net/products/laptop-msi-prestige-13-ai-ukiyo-e-edition-a2vmg-075vn", "selector": ["#pro-price > span.price-now", "#pro-price > span.price-now"]},
   {"name": "Prestige 13Evo A13M-081VN", "url": "https://xgear.net/products/laptop-msi-prestige-14-ai-evo-c1mg-081vn", "selector": ["#pro-price > span.price-now", "#pro-price > span.price-now"]},
   {"name": "Modern 15 F13MG-082VN", "url": "https://xgear.net/products/laptop-msi-prestige-16-ai-studio-b1vf-082vn", "selector": ["#pro-price > span.price-now", "#pro-price > span.price-now"]}
+
 ]
