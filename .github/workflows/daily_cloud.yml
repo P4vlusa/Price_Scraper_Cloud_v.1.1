@@ -21,7 +21,8 @@ jobs:
           "configs/Phuc_Anh.json",
           "configs/Laptopworld.json",
           "configs/Sieu_Toc.json",
-          "configs/Xgear.json"
+          "configs/Xgear.json",
+          "configs/Hacom.json"
           # ... Thêm đủ 20 file config vào đây
         ]
 
