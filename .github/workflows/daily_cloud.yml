@@ -13,7 +13,7 @@ jobs:
       matrix:
         # LIỆT KÊ DANH SÁCH CÁC ĐẠI LÝ CỦA BẠN Ở ĐÂY
         dealer_config: [
-          "configs/Sieu_Toc.json",
+          "configs/Laptopworld.json",
           "configs/Hacom.json"
           # ... Thêm đủ 20 file config vào đây
         ]
